@@ -1,4 +1,4 @@
-name: Anvil
+name: VAnvil
 main: io.github.explosivemine.anvil.AnvilPlugin
 version: '${project.version}'
 description: Anvil Menus & Custom Mechanics
@@ -6,5 +6,5 @@ api-version: 1.17
 author: explosivemines
 website: https://www.spigotmc.org/resources/anvil.77142/
 commands:
-  anvil:
+  vanvil:
     description: Open an anvil anywhere!
