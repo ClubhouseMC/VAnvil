@@ -3,7 +3,7 @@ package io.github.explosivemine.anvil.commands;
 import lombok.Getter;
 
 public enum CommandIdentifier {
-    ANVIL("anvil");
+    ANVIL("vanvil");
 
     @Getter private final String label;
 
