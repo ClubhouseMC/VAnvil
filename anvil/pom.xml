@@ -24,6 +24,7 @@
             <version>1.4.10</version>
             <scope>compile</scope>
         </dependency>
+        <!--
         <dependency>
             <groupId>io.github.explosivemine</groupId>
             <artifactId>1_17_R1</artifactId>
@@ -89,7 +90,7 @@
             <artifactId>1_20_R4</artifactId>
             <version>1.4.10</version>
             <scope>compile</scope>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>io.github.explosivemine</groupId>
             <artifactId>1_21_R1</artifactId>
